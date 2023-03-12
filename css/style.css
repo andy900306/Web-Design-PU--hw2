@@ -137,6 +137,7 @@ img {
 	line-height: 24px;
 	text-transform: uppercase;
 }
+/* 因為區域是contents h4所以改這裡， 把line-height 改成20px */
 #contents h4 {
 	font-size: 16px;
 	line-height: 20px;
